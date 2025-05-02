@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Moral Foundation Analysis of Twitter Tweets (Indian Context)
 
 ## Project Overview
@@ -69,3 +70,6 @@ Researchers and developers are encouraged to contribute. Fork the repository, cr
 
 ## License
 This project is released under the **MIT License**.
+=======
+# moralFoundations
+>>>>>>> eba2feaa568fbb7a7f3d856b76a4d8b9565dbd4d
